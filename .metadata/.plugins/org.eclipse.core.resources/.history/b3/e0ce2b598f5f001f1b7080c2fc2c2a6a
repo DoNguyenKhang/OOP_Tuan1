@@ -1,0 +1,14 @@
+package NguyenKhang;
+
+public class TestHCN {
+
+	public static void main(String[] args) {
+		HinhChuNhat h1 = new HinhChuNhat();
+		h1.setChieuDai(5);
+		h1.getChieuRong(3);
+		System.out.println();
+		
+
+	}
+
+}
